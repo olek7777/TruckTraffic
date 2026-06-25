@@ -1,12 +1,14 @@
-# 🚛 Truck Traffic — European Road Freight Analysis
+# 🚛 Truck Traffic — European Road Freight Analysis (with Poland Focus)
 
-A **Power BI analytics project** exploring synthetic European truck freight transport flows across 1,675 regions, based on data from the [ETISplus project](https://data.mendeley.com/datasets/py2zkrb65h/2).
+A **Power BI analytics project** exploring synthetic European truck freight transport flows across 1,675 regions, based on data from the [ETISplus project](https://data.mendeley.com/datasets/py2zkrb65h/2). The project includes a dedicated focus on **Poland** — analysing its role in European freight logistics, key trade corridors, and projected growth.
 
 ---
 
 ## 📊 Project Overview
 
-This report analyses road freight transport across Europe for the years **2010, 2019, and 2030 (forecast)**, covering over **1.5 million directed transport flows** between NUTS-3 regions. The goal is to uncover key freight corridors, regional traffic intensity, and projected logistics growth.
+This report analyses road freight transport across Europe for the years **2010, 2019, and 2030 (forecast)**, covering over **1.5 million directed transport flows** between NUTS-3 regions. The goal is to uncover key freight corridors, regional traffic intensity, and projected logistics growth — with a **special deep-dive into Poland's freight network**.
+
+Poland is one of the most strategically important logistics hubs in Central Europe, serving as a key transit country between Western Europe and Eastern markets. This project explores that role through data.
 
 ---
 
@@ -14,19 +16,27 @@ This report analyses road freight transport across Europe for the years **2010, 
 
 > _Screenshots will be added after the report is published._
 
-| Overview Page | Flow Map | 2030 Forecast |
-|---|---|---|
-| _(coming soon)_ | _(coming soon)_ | _(coming soon)_ |
+| Overview Page | Flow Map | Poland Focus | 2030 Forecast |
+|---|---|---|---|
+| _(coming soon)_ | _(coming soon)_ | _(coming soon)_ | _(coming soon)_ |
 
 ---
 
 ## ❓ Key Questions Answered
 
+**European-wide:**
 - Which European regions generate and receive the most freight traffic?
 - What are the busiest truck corridors in the E-road highway network?
 - How has freight volume changed from 2010 to 2019, and what is projected for 2030?
 - Which countries dominate road freight transport in Europe?
 - What is the average distance of freight flows between regions?
+
+**Poland-specific:**
+- What is Poland's rank among European countries by freight volume?
+- Which Polish NUTS-3 regions are the most active freight hubs?
+- What are the top trade corridors to and from Poland?
+- How has Poland's freight traffic grown from 2010 to 2019, and what is forecast for 2030?
+- Which foreign countries trade the most freight with Poland?
 
 ---
 
@@ -35,8 +45,9 @@ This report analyses road freight transport across Europe for the years **2010, 
 > _To be filled in after analysis is complete._
 
 - 📦 **Top freight corridor:** ...
-- 📈 **Growth 2010–2030:** ...
-- 🗺️ **Highest traffic density region:** ...
+- 🇵🇱 **Poland's freight growth (2010–2030):** ...
+- 📈 **Top Polish freight region:** ...
+- 🗺️ **Highest traffic density region in Europe:** ...
 
 ---
 
